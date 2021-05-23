@@ -6,10 +6,10 @@ cd InterviewQuestions
 ```
 |  |  |
 | ------ | ------ |
-| 1. Görev | [Tıklayınız](#gorev-1) |
-| 2. Görev | [Tıklayınız](#gorev-2) |
-| 3. Görev | [Tıklayınız](#gorev3) |
-| 4. Görev | [Tıklayınız](#gorev4) |
+| 1. Görev | [Tıklayınız](#görev-1) |
+| 2. Görev | [Tıklayınız](#görev-2) |
+| 3. Görev | [Tıklayınız](#görev3) |
+| 4. Görev | [Tıklayınız](#görev4) |
 
 ### Görev 1
 Python için: 
