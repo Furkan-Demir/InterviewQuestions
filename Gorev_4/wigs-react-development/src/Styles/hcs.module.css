@@ -1,0 +1,30 @@
+.hc {
+    position:relative;
+    width:100%;
+    margin-top:1vh
+}
+.hc_img {
+    object-fit:cover;overflow:hidden; margin:1vh;
+}
+
+.hc_text {
+    position:absolute;
+    top:30%;
+    left:5%;
+    white-space: nowrap;
+}
+
+.hc_text2 {
+    position:absolute;
+    top:50%;
+    left:5%;
+    white-space: nowrap;
+}
+
+.hc_text_center {
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    white-space: nowrap;
+}

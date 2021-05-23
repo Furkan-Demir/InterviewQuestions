@@ -1,0 +1,6 @@
+.navbaritem {
+    color: black;
+}
+.navbaritem:hover {
+    text-decoration: underline;
+}

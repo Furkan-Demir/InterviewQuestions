@@ -1,0 +1,30 @@
+.sidebaritem{
+    display:flex;
+    flex-direction: column;
+    margin-left: 1vh;
+    justify-content: center;
+}
+
+.sidebarh :hover {
+    background-color: rgb(245, 245, 245);
+}
+
+.sidebarcontent {
+    margin-left:'auto';
+    margin-right:0;
+}
+
+.sidebarscreen
+{
+    position:fixed;
+    padding:0;
+    margin:0;
+
+    top:0;
+    left:0;
+
+    width: 100%;
+    height: 100%;
+    background:rgba(255,255,255,0.9);
+    z-index:1
+}
